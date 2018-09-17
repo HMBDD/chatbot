@@ -1,0 +1,360 @@
+05-09-2018 22:59:45,089 [main] INFO [chatbot.base.TestBase]  - ***********************************************************************************
+05-09-2018 22:59:45,092 [main] INFO [chatbot.base.TestBase]  - *** Start of Suite Execution: 
+05-09-2018 22:59:45,093 [main] INFO [chatbot.base.TestBase]  - ***********************************************************************************
+05-09-2018 23:00:22,338 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+05-09-2018 23:00:22,342 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Test Case execution is Started: CB_01
+05-09-2018 23:00:22,345 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+05-09-2018 23:00:22,380 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Question is: prashanth
+05-09-2018 23:00:27,508 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Bot Response is: 
+I知 sorry, I知 having trouble understanding what you typed.
+05-09-2018 23:00:27,933 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+05-09-2018 23:00:27,933 [main] INFO [chatbot.initiators.ChatbotInitiator]  -  End of Execution 
+05-09-2018 23:00:27,935 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+05-09-2018 23:00:27,941 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+05-09-2018 23:00:27,941 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Test Case execution is Started: CB_02
+05-09-2018 23:00:27,942 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+05-09-2018 23:00:27,972 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Question is: I have a question about your company
+05-09-2018 23:00:34,522 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Bot Response is: 
+Does this answer your question?
+05-09-2018 23:00:34,777 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+05-09-2018 23:00:34,777 [main] INFO [chatbot.initiators.ChatbotInitiator]  -  End of Execution 
+05-09-2018 23:00:34,778 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+05-09-2018 23:00:34,781 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+05-09-2018 23:00:34,782 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Test Case execution is Started: CB_03
+05-09-2018 23:00:34,783 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+05-09-2018 23:00:34,812 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Question is: Where is your headquarters?
+05-09-2018 23:00:38,902 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Bot Response is: 
+Does this answer your question?
+05-09-2018 23:00:39,179 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+05-09-2018 23:00:39,180 [main] INFO [chatbot.initiators.ChatbotInitiator]  -  End of Execution 
+05-09-2018 23:00:39,180 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+05-09-2018 23:00:39,926 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Trying to Stop WebDriver
+05-09-2018 23:00:41,475 [main] INFO [chatbot.initiators.ChatbotInitiator]  - WebDriver Stopped
+05-09-2018 23:00:41,475 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************************************
+05-09-2018 23:00:41,475 [main] INFO [chatbot.initiators.ChatbotInitiator]  - *** End of Suite Execution: 
+05-09-2018 23:00:41,475 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************************************
+06-09-2018 19:26:23,236 [main] INFO [chatbot.base.TestBase]  - ***********************************************************************************
+06-09-2018 19:26:23,238 [main] INFO [chatbot.base.TestBase]  - *** Start of Suite Execution: 
+06-09-2018 19:26:23,239 [main] INFO [chatbot.base.TestBase]  - ***********************************************************************************
+06-09-2018 19:27:03,259 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 19:27:03,264 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Test Case execution is Started: CB_01
+06-09-2018 19:27:03,265 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 19:27:03,306 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Question is: prashanth
+06-09-2018 19:27:09,703 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Bot Response is: 
+I知 sorry, I知 having trouble understanding what you typed.
+06-09-2018 19:27:10,118 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 19:27:10,118 [main] INFO [chatbot.initiators.ChatbotInitiator]  -  End of Execution 
+06-09-2018 19:27:10,119 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 19:27:10,120 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 19:27:10,120 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Test Case execution is Started: CB_02
+06-09-2018 19:27:10,121 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 19:27:10,143 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Question is: I have a question about your company
+06-09-2018 19:27:17,730 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Bot Response is: 
+Would you like me to forward your question to a colleague who can better assist you? They will follow up with you within 2 business days
+06-09-2018 19:27:17,895 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 19:27:17,895 [main] INFO [chatbot.initiators.ChatbotInitiator]  -  End of Execution 
+06-09-2018 19:27:17,899 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 19:27:17,900 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 19:27:17,901 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Test Case execution is Started: CB_03
+06-09-2018 19:27:17,901 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 19:27:17,918 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Question is: Where is your headquarters?
+06-09-2018 19:27:23,679 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Bot Response is: 
+Does this answer your question?
+06-09-2018 19:27:25,944 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Bot Response is: 
+Does this answer your question?
+06-09-2018 19:27:26,167 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 19:27:26,167 [main] INFO [chatbot.initiators.ChatbotInitiator]  -  End of Execution 
+06-09-2018 19:27:26,168 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 19:27:26,825 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Trying to Stop WebDriver
+06-09-2018 19:27:28,511 [main] INFO [chatbot.initiators.ChatbotInitiator]  - WebDriver Stopped
+06-09-2018 19:27:28,511 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************************************
+06-09-2018 19:27:28,511 [main] INFO [chatbot.initiators.ChatbotInitiator]  - *** End of Suite Execution: 
+06-09-2018 19:27:28,512 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************************************
+06-09-2018 19:30:48,240 [main] INFO [chatbot.base.TestBase]  - ***********************************************************************************
+06-09-2018 19:30:48,243 [main] INFO [chatbot.base.TestBase]  - *** Start of Suite Execution: 
+06-09-2018 19:30:48,244 [main] INFO [chatbot.base.TestBase]  - ***********************************************************************************
+06-09-2018 19:31:29,957 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 19:31:29,957 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Test Case execution is Started: CB_01
+06-09-2018 19:31:29,958 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 19:31:30,001 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Question is: prashanth
+06-09-2018 19:31:35,565 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Bot Response is: 
+I知 sorry, I知 having trouble understanding what you typed.
+06-09-2018 19:31:35,596 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Path is D:\workspace\ChatBotAutomation\Reports\Execution_06092018_193043\Screenshots
+06-09-2018 19:31:36,273 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Screenshot path .//..//Screenshots//chatbotVerification_1536242496273.jpg
+06-09-2018 19:31:36,648 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 19:31:36,649 [main] INFO [chatbot.initiators.ChatbotInitiator]  -  End of Execution 
+06-09-2018 19:31:36,649 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 19:31:36,651 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 19:31:36,651 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Test Case execution is Started: CB_02
+06-09-2018 19:31:36,652 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 19:31:36,672 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Question is: I have a question about your company
+06-09-2018 19:31:43,969 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Bot Response is: 
+Does this answer your question?
+06-09-2018 19:31:44,591 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Screenshot path .//..//Screenshots//chatbotVerification_1536242504591.jpg
+06-09-2018 19:31:44,739 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 19:31:44,740 [main] INFO [chatbot.initiators.ChatbotInitiator]  -  End of Execution 
+06-09-2018 19:31:44,740 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 19:31:44,742 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 19:31:44,743 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Test Case execution is Started: CB_03
+06-09-2018 19:31:44,743 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 19:31:44,769 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Question is: Where is your headquarters?
+06-09-2018 19:31:48,724 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Bot Response is: 
+Does this answer your question?
+06-09-2018 19:31:49,319 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Screenshot path .//..//Screenshots//chatbotVerification_1536242509319.jpg
+06-09-2018 19:31:49,517 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 19:31:49,518 [main] INFO [chatbot.initiators.ChatbotInitiator]  -  End of Execution 
+06-09-2018 19:31:49,518 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 19:31:50,064 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Trying to Stop WebDriver
+06-09-2018 19:31:51,650 [main] INFO [chatbot.initiators.ChatbotInitiator]  - WebDriver Stopped
+06-09-2018 19:31:51,652 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************************************
+06-09-2018 19:31:51,652 [main] INFO [chatbot.initiators.ChatbotInitiator]  - *** End of Suite Execution: 
+06-09-2018 19:31:51,652 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************************************
+06-09-2018 19:46:04,664 [main] INFO [chatbot.base.TestBase]  - ***********************************************************************************
+06-09-2018 19:46:04,667 [main] INFO [chatbot.base.TestBase]  - *** Start of Suite Execution: 
+06-09-2018 19:46:04,668 [main] INFO [chatbot.base.TestBase]  - ***********************************************************************************
+06-09-2018 19:46:46,725 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 19:46:46,726 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Test Case execution is Started: CB_01
+06-09-2018 19:46:46,726 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 19:46:46,761 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Question is: prashanth
+06-09-2018 19:46:50,238 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Bot Response is: 
+I知 sorry, I知 having trouble understanding what you typed.
+06-09-2018 19:46:50,267 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Path is D:\workspace\ChatBotAutomation\Reports\Execution_06092018_194601\Screenshots
+06-09-2018 19:46:50,842 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Screenshot path .//...//Screenshots//chatbotVerification_1536243410842.jpg
+06-09-2018 19:46:51,176 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 19:46:51,177 [main] INFO [chatbot.initiators.ChatbotInitiator]  -  End of Execution 
+06-09-2018 19:46:51,177 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 19:46:51,178 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 19:46:51,179 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Test Case execution is Started: CB_02
+06-09-2018 19:46:51,179 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 19:46:51,193 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Question is: I have a question about your company
+06-09-2018 19:46:56,064 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Bot Response is: 
+Does this answer your question?
+06-09-2018 19:47:16,828 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Screenshot path .//...//Screenshots//chatbotVerification_1536243436828.jpg
+06-09-2018 19:47:16,965 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 19:47:16,965 [main] INFO [chatbot.initiators.ChatbotInitiator]  -  End of Execution 
+06-09-2018 19:47:16,966 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 19:47:16,969 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 19:47:16,969 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Test Case execution is Started: CB_03
+06-09-2018 19:47:16,970 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 19:47:17,015 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Question is: Where is your headquarters?
+06-09-2018 19:47:21,222 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Bot Response is: 
+Does this answer your question?
+06-09-2018 19:47:21,726 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Screenshot path .//...//Screenshots//chatbotVerification_1536243441726.jpg
+06-09-2018 19:47:21,885 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 19:47:21,885 [main] INFO [chatbot.initiators.ChatbotInitiator]  -  End of Execution 
+06-09-2018 19:47:21,886 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 19:47:22,504 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Trying to Stop WebDriver
+06-09-2018 19:47:24,227 [main] INFO [chatbot.initiators.ChatbotInitiator]  - WebDriver Stopped
+06-09-2018 19:47:24,228 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************************************
+06-09-2018 19:47:24,228 [main] INFO [chatbot.initiators.ChatbotInitiator]  - *** End of Suite Execution: 
+06-09-2018 19:47:24,230 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************************************
+06-09-2018 19:50:45,706 [main] INFO [chatbot.base.TestBase]  - ***********************************************************************************
+06-09-2018 19:50:45,709 [main] INFO [chatbot.base.TestBase]  - *** Start of Suite Execution: 
+06-09-2018 19:50:45,710 [main] INFO [chatbot.base.TestBase]  - ***********************************************************************************
+06-09-2018 19:51:22,149 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 19:51:22,149 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Test Case execution is Started: CB_01
+06-09-2018 19:51:22,150 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 19:51:22,181 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Question is: prashanth
+06-09-2018 19:51:26,896 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Bot Response is: 
+I知 sorry, I知 having trouble understanding what you typed.
+06-09-2018 19:51:26,919 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Path is D:\workspace\ChatBotAutomation\Reports\Execution_06092018_195042\Screenshots
+06-09-2018 19:51:27,624 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Screenshot path .\...\Screenshots\chatbotVerification_1536243687624.jpg
+06-09-2018 19:51:28,123 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 19:51:28,123 [main] INFO [chatbot.initiators.ChatbotInitiator]  -  End of Execution 
+06-09-2018 19:51:28,124 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 19:51:28,578 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Trying to Stop WebDriver
+06-09-2018 19:51:30,206 [main] INFO [chatbot.initiators.ChatbotInitiator]  - WebDriver Stopped
+06-09-2018 19:51:30,206 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************************************
+06-09-2018 19:51:30,207 [main] INFO [chatbot.initiators.ChatbotInitiator]  - *** End of Suite Execution: 
+06-09-2018 19:51:30,207 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************************************
+06-09-2018 19:52:27,086 [main] INFO [chatbot.base.TestBase]  - ***********************************************************************************
+06-09-2018 19:52:27,089 [main] INFO [chatbot.base.TestBase]  - *** Start of Suite Execution: 
+06-09-2018 19:52:27,089 [main] INFO [chatbot.base.TestBase]  - ***********************************************************************************
+06-09-2018 19:53:04,915 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 19:53:04,916 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Test Case execution is Started: CB_01
+06-09-2018 19:53:04,916 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 19:53:04,954 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Question is: prashanth
+06-09-2018 19:53:09,594 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Bot Response is: 
+I知 sorry, I知 having trouble understanding what you typed.
+06-09-2018 19:53:09,621 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Path is D:\workspace\ChatBotAutomation\Reports\Execution_06092018_195223\Screenshots
+06-09-2018 19:53:10,386 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Screenshot path .\..\Screenshots\chatbotVerification_1536243790386.jpg
+06-09-2018 19:53:10,863 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 19:53:10,864 [main] INFO [chatbot.initiators.ChatbotInitiator]  -  End of Execution 
+06-09-2018 19:53:10,864 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 19:53:11,567 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Trying to Stop WebDriver
+06-09-2018 19:53:13,624 [main] INFO [chatbot.initiators.ChatbotInitiator]  - WebDriver Stopped
+06-09-2018 19:53:13,624 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************************************
+06-09-2018 19:53:13,625 [main] INFO [chatbot.initiators.ChatbotInitiator]  - *** End of Suite Execution: 
+06-09-2018 19:53:13,626 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************************************
+06-09-2018 19:56:42,322 [main] INFO [chatbot.base.TestBase]  - ***********************************************************************************
+06-09-2018 19:56:42,324 [main] INFO [chatbot.base.TestBase]  - *** Start of Suite Execution: 
+06-09-2018 19:56:42,325 [main] INFO [chatbot.base.TestBase]  - ***********************************************************************************
+06-09-2018 19:57:23,496 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 19:57:23,497 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Test Case execution is Started: CB_01
+06-09-2018 19:57:23,497 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 19:57:23,529 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Question is: prashanth
+06-09-2018 19:57:27,694 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Bot Response is: 
+I知 sorry, I知 having trouble understanding what you typed.
+06-09-2018 19:57:27,716 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Path is D:\workspace\ChatBotAutomation\Reports\Execution_06092018_195638\Screenshots
+06-09-2018 19:57:28,309 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Screenshot path D:\workspace\ChatBotAutomation\Reports\Execution_06092018_195638\ScreenshotschatbotVerification_1536244048309.jpg
+06-09-2018 19:57:28,633 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 19:57:28,633 [main] INFO [chatbot.initiators.ChatbotInitiator]  -  End of Execution 
+06-09-2018 19:57:28,634 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 19:57:29,222 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Trying to Stop WebDriver
+06-09-2018 19:57:31,071 [main] INFO [chatbot.initiators.ChatbotInitiator]  - WebDriver Stopped
+06-09-2018 19:57:31,071 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************************************
+06-09-2018 19:57:31,072 [main] INFO [chatbot.initiators.ChatbotInitiator]  - *** End of Suite Execution: 
+06-09-2018 19:57:31,072 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************************************
+06-09-2018 20:00:41,697 [main] INFO [chatbot.base.TestBase]  - ***********************************************************************************
+06-09-2018 20:00:41,704 [main] INFO [chatbot.base.TestBase]  - *** Start of Suite Execution: 
+06-09-2018 20:00:41,704 [main] INFO [chatbot.base.TestBase]  - ***********************************************************************************
+06-09-2018 20:01:27,964 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 20:01:27,964 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Test Case execution is Started: CB_01
+06-09-2018 20:01:27,964 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 20:01:27,992 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Question is: prashanth
+06-09-2018 20:01:31,666 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Bot Response is: 
+I知 sorry, I知 having trouble understanding what you typed.
+06-09-2018 20:01:31,686 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Path is D:\workspace\ChatBotAutomation\Reports\Execution_06092018_200038\Screenshots
+06-09-2018 20:01:32,302 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Screenshot path D:\workspace\ChatBotAutomation//Reports//Execution_06092018_200038//Screenshots//chatbotVerification_1536244292302.jpg
+06-09-2018 20:01:32,786 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 20:01:32,786 [main] INFO [chatbot.initiators.ChatbotInitiator]  -  End of Execution 
+06-09-2018 20:01:32,786 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 20:01:33,515 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Trying to Stop WebDriver
+06-09-2018 20:01:35,763 [main] INFO [chatbot.initiators.ChatbotInitiator]  - WebDriver Stopped
+06-09-2018 20:01:35,763 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************************************
+06-09-2018 20:01:35,763 [main] INFO [chatbot.initiators.ChatbotInitiator]  - *** End of Suite Execution: 
+06-09-2018 20:01:35,766 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************************************
+06-09-2018 20:05:16,315 [main] INFO [chatbot.base.TestBase]  - ***********************************************************************************
+06-09-2018 20:05:16,316 [main] INFO [chatbot.base.TestBase]  - *** Start of Suite Execution: 
+06-09-2018 20:05:16,316 [main] INFO [chatbot.base.TestBase]  - ***********************************************************************************
+06-09-2018 20:05:58,851 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 20:05:58,851 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Test Case execution is Started: CB_01
+06-09-2018 20:05:58,851 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 20:05:58,879 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Question is: prashanth
+06-09-2018 20:06:04,389 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Bot Response is: 
+I知 sorry, I知 having trouble understanding what you typed.
+06-09-2018 20:06:04,413 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Path is D:\workspace\ChatBotAutomation\Reports\Execution_06092018_200512\Screenshots
+06-09-2018 20:06:05,125 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Screenshot path D:\workspace\ChatBotAutomation//Reports//Execution_06092018_200512//Screenshots//chatbotVerification_1536244565125.jpg
+06-09-2018 20:06:05,505 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 20:06:05,505 [main] INFO [chatbot.initiators.ChatbotInitiator]  -  End of Execution 
+06-09-2018 20:06:05,505 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 20:06:06,049 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Trying to Stop WebDriver
+06-09-2018 20:06:07,995 [main] INFO [chatbot.initiators.ChatbotInitiator]  - WebDriver Stopped
+06-09-2018 20:06:07,995 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************************************
+06-09-2018 20:06:07,998 [main] INFO [chatbot.initiators.ChatbotInitiator]  - *** End of Suite Execution: 
+06-09-2018 20:06:07,998 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************************************
+06-09-2018 20:09:07,325 [main] INFO [chatbot.base.TestBase]  - ***********************************************************************************
+06-09-2018 20:09:07,325 [main] INFO [chatbot.base.TestBase]  - *** Start of Suite Execution: 
+06-09-2018 20:09:07,325 [main] INFO [chatbot.base.TestBase]  - ***********************************************************************************
+06-09-2018 20:09:50,007 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 20:09:50,007 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Test Case execution is Started: CB_01
+06-09-2018 20:09:50,007 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 20:09:50,051 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Question is: prashanth
+06-09-2018 20:09:54,943 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Bot Response is: 
+I知 sorry, I知 having trouble understanding what you typed.
+06-09-2018 20:09:54,967 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Path is D:\workspace\ChatBotAutomation\Reports\Execution_06092018_200904\Screenshots
+06-09-2018 20:09:55,619 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Screenshot path D:\workspace\ChatBotAutomation//Reports//Execution_06092018_200904//Screenshots//chatbotVerification_1536244795619.jpg
+06-09-2018 20:09:55,979 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 20:09:55,979 [main] INFO [chatbot.initiators.ChatbotInitiator]  -  End of Execution 
+06-09-2018 20:09:55,979 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 20:09:55,982 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 20:09:55,983 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Test Case execution is Started: CB_02
+06-09-2018 20:09:55,983 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 20:09:55,995 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Question is: I have a question about your company
+06-09-2018 20:09:56,887 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Bot Response is: 
+Would you like me to forward your question to a colleague who can better assist you? They will follow up with you within 2 business days
+06-09-2018 20:09:57,475 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Screenshot path D:\workspace\ChatBotAutomation//Reports//Execution_06092018_200904//Screenshots//chatbotVerification_1536244797475.jpg
+06-09-2018 20:09:57,644 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 20:09:57,644 [main] INFO [chatbot.initiators.ChatbotInitiator]  -  End of Execution 
+06-09-2018 20:09:57,644 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 20:09:57,648 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 20:09:57,648 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Test Case execution is Started: CB_03
+06-09-2018 20:09:57,648 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+06-09-2018 20:09:57,684 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Question is: Where is your headquarters?
+06-09-2018 20:10:03,116 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Bot Response is: 
+Does this answer your question?
+06-09-2018 20:10:03,880 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Screenshot path D:\workspace\ChatBotAutomation//Reports//Execution_06092018_200904//Screenshots//chatbotVerification_1536244803880.jpg
+06-09-2018 20:10:04,064 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 20:10:04,068 [main] INFO [chatbot.initiators.ChatbotInitiator]  -  End of Execution 
+06-09-2018 20:10:04,068 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+06-09-2018 20:10:04,838 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Trying to Stop WebDriver
+06-09-2018 20:10:07,020 [main] INFO [chatbot.initiators.ChatbotInitiator]  - WebDriver Stopped
+06-09-2018 20:10:07,020 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************************************
+06-09-2018 20:10:07,025 [main] INFO [chatbot.initiators.ChatbotInitiator]  - *** End of Suite Execution: 
+06-09-2018 20:10:07,025 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************************************
+17-09-2018 11:19:46,166 [main] INFO [chatbot.base.TestBase]  - ***********************************************************************************
+17-09-2018 11:19:46,166 [main] INFO [chatbot.base.TestBase]  - *** Start of Suite Execution: 
+17-09-2018 11:19:46,166 [main] INFO [chatbot.base.TestBase]  - ***********************************************************************************
+17-09-2018 11:20:48,762 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+17-09-2018 11:20:48,763 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Test Case execution is Started: CB_01
+17-09-2018 11:20:48,763 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+17-09-2018 11:20:48,804 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Question is: prashanth
+17-09-2018 11:20:53,901 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Bot Response is: 
+I知 sorry, I知 having trouble understanding what you typed.
+17-09-2018 11:20:53,917 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Path is D:\Chatbot\ChatbotAutomation\ChatBotAutomation\Reports\Execution_17092018_111942\Screenshots
+17-09-2018 11:20:54,371 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Screenshot path D:\Chatbot\ChatbotAutomation\ChatBotAutomation//Reports//Execution_17092018_111942//Screenshots//chatbotVerification_1537163454370.jpg
+17-09-2018 11:20:54,845 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+17-09-2018 11:20:54,845 [main] INFO [chatbot.initiators.ChatbotInitiator]  -  End of Execution 
+17-09-2018 11:20:54,846 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+17-09-2018 11:20:54,855 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+17-09-2018 11:20:54,858 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Test Case execution is Started: CB_02
+17-09-2018 11:20:54,858 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+17-09-2018 11:20:54,882 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Question is: I have a question about your company
+17-09-2018 11:20:55,897 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Bot Response is: 
+Would you like me to forward your question to a colleague who can better assist you? They will follow up with you within 2 business days
+17-09-2018 11:20:56,424 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Screenshot path D:\Chatbot\ChatbotAutomation\ChatBotAutomation//Reports//Execution_17092018_111942//Screenshots//chatbotVerification_1537163456424.jpg
+17-09-2018 11:20:56,631 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+17-09-2018 11:20:56,632 [main] INFO [chatbot.initiators.ChatbotInitiator]  -  End of Execution 
+17-09-2018 11:20:56,632 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+17-09-2018 11:20:56,634 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+17-09-2018 11:20:56,634 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Test Case execution is Started: CB_03
+17-09-2018 11:20:56,634 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+17-09-2018 11:20:56,674 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Question is: Where is your headquarters?
+17-09-2018 11:20:59,787 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Bot Response is: 
+Does this answer your question?
+17-09-2018 11:21:00,400 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Screenshot path D:\Chatbot\ChatbotAutomation\ChatBotAutomation//Reports//Execution_17092018_111942//Screenshots//chatbotVerification_1537163460400.jpg
+17-09-2018 11:21:00,632 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+17-09-2018 11:21:00,633 [main] INFO [chatbot.initiators.ChatbotInitiator]  -  End of Execution 
+17-09-2018 11:21:00,633 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+17-09-2018 11:21:01,242 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Trying to Stop WebDriver
+17-09-2018 11:21:02,809 [main] INFO [chatbot.initiators.ChatbotInitiator]  - WebDriver Stopped
+17-09-2018 11:21:02,809 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************************************
+17-09-2018 11:21:02,809 [main] INFO [chatbot.initiators.ChatbotInitiator]  - *** End of Suite Execution: 
+17-09-2018 11:21:02,810 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************************************
+17-09-2018 11:21:52,294 [main] INFO [chatbot.base.TestBase]  - ***********************************************************************************
+17-09-2018 11:21:52,297 [main] INFO [chatbot.base.TestBase]  - *** Start of Suite Execution: 
+17-09-2018 11:21:52,297 [main] INFO [chatbot.base.TestBase]  - ***********************************************************************************
+17-09-2018 11:22:41,357 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+17-09-2018 11:22:41,360 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Test Case execution is Started: CB_01
+17-09-2018 11:22:41,361 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+17-09-2018 11:22:41,425 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Question is: prashanth
+17-09-2018 11:22:46,472 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Bot Response is: 
+I知 sorry, I知 having trouble understanding what you typed.
+17-09-2018 11:22:46,883 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+17-09-2018 11:22:46,884 [main] INFO [chatbot.initiators.ChatbotInitiator]  -  End of Execution 
+17-09-2018 11:22:46,884 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+17-09-2018 11:22:46,891 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+17-09-2018 11:22:46,892 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Test Case execution is Started: CB_02
+17-09-2018 11:22:46,896 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+17-09-2018 11:22:46,919 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Question is: I have a question about your company
+17-09-2018 11:22:48,207 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Bot Response is: 
+Would you like me to forward your question to a colleague who can better assist you? They will follow up with you within 2 business days
+17-09-2018 11:22:48,364 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+17-09-2018 11:22:48,365 [main] INFO [chatbot.initiators.ChatbotInitiator]  -  End of Execution 
+17-09-2018 11:22:48,365 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+17-09-2018 11:22:48,366 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+17-09-2018 11:22:48,367 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Test Case execution is Started: CB_03
+17-09-2018 11:22:48,367 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - ***********************************************************
+17-09-2018 11:22:48,392 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Question is: Where is your headquarters?
+17-09-2018 11:22:53,026 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Bot Response is: 
+Does this answer your question?
+17-09-2018 11:22:55,287 [main] INFO [chatbot.testcases.ChatbotVerificationDataProvider]  - Bot Response is: 
+Does this answer your question?
+17-09-2018 11:22:55,491 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+17-09-2018 11:22:55,491 [main] INFO [chatbot.initiators.ChatbotInitiator]  -  End of Execution 
+17-09-2018 11:22:55,493 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************
+17-09-2018 11:22:56,076 [main] INFO [chatbot.initiators.ChatbotInitiator]  - Trying to Stop WebDriver
+17-09-2018 11:22:57,624 [main] INFO [chatbot.initiators.ChatbotInitiator]  - WebDriver Stopped
+17-09-2018 11:22:57,624 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************************************
+17-09-2018 11:22:57,624 [main] INFO [chatbot.initiators.ChatbotInitiator]  - *** End of Suite Execution: 
+17-09-2018 11:22:57,624 [main] INFO [chatbot.initiators.ChatbotInitiator]  - ***********************************************************************************
