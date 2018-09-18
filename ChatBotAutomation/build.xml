@@ -1,0 +1,59 @@
+<project name="ChatBotAutomation" basedir=".">
+    <property name="ANT.home" value="C:\apache-ant-1.9.7\bin"/>
+
+	  <target name="clean"
+        description="clean up" >
+       <delete includeemptydirs="true">
+    <fileset dir="C:\Program Files (x86)\Jenkins\workspace\chatbotAutomationDesc\ChatBotAutomation\mailed" includes="**/*"/>
+  </delete>
+	      </target>
+	  
+	
+	
+	<target name = "copy">
+  <tstamp>
+<format property="touch.time" pattern="d-MMMM-yyyy-hh-mm"/>
+</tstamp>
+ <copy todir="C:\Program Files (x86)\Jenkins\workspace\chatbotAutomationDesc\ChatBotAutomation\mailed">
+   <last>
+  <sort>
+             <fileset dir="C:\Program Files (x86)\Jenkins\workspace\chatbotAutomationDesc\ChatBotAutomation\Reports/" includes="**/*.html"/>
+	        <date/>
+    </sort>
+		  </last>
+	   </copy>
+	   </target>
+
+<target description="Generates and sends API Test Results" name="send-report">
+<tstamp>
+<format property="touch.time" pattern="d-MMMM-yyyy-hh-mm"/>
+</tstamp>
+  <mail mailhost="smtp.gmail.com" mailport="465" password="Prash@123" ssl="true" subject="Automation Test Results" user="happiestmindsautomationteam@gmail.com">
+     <from address="happiestmindsautomationteam@gmail.com"></from>
+     <replyto address="happiestmmindsautomationteam@gmail.com"></replyto>
+         <to address="ganapati.bhat@happiestminds.com"></to>
+         <cc address="prashanth.tv@happiestminds.com"/>
+          <message>
+Hello Everyone, 
+
+Please find attached, THe latest Run of the Automation Testing results for your reference.
+The Results are attached as a HTML. Please let us know if you require any other infromation
+
+Regards
+Happiest Minds Automation Team
+</message>
+     <attachments>
+      <last>
+  <sort>
+             <fileset dir="C:\Program Files (x86)\Jenkins\workspace\chatbotAutomationDesc\ChatBotAutomation\mailed" includes="**/*.html"/>
+	        <date/>
+    </sort>
+		  </last>
+     </attachments>
+</mail>
+</target>
+</project>
+
+
+
+
