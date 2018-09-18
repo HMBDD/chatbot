@@ -51,13 +51,37 @@ public class ChatbotInitiator extends TestBase {
 		LOGGER.info("***********************************************************************************");
 		LOGGER.info("*** End of Suite Execution: ");
 		LOGGER.info("***********************************************************************************");
+		
+		
+		File srcfile = new File(TestBase.targetReportPath);
+		File[] listOfFiles = srcfile.listFiles();
+		//getting   file names from   folder
+	/*	 for (int i = 0; i < listOfFiles.length; i++) {
+		      if (listOfFiles[i].isFile()) {
+		    	  
+		        System.out.println("File " + listOfFiles[i].getName());
+		      } else if (listOfFiles[i].isDirectory()) {
+		        System.out.println("Directory " + listOfFiles[i].getName());
+		        
+		      }*/
+		      
+		      File dstfile = new File(TestBase.path);
+				try {
+					FileUtils.copyDirectory(srcfile, dstfile);
+				} catch (IOException e) {
+					 
+					e.printStackTrace();
+				}
+				 
+				System.out.println("Report movement is completed. Path is: "+TestBase.path);
+		
 	 
 	}
 
 	public void captureScreenShotOnTestFailure(ITestResult result) throws IOException {
 		if (result.getStatus() == ITestResult.FAILURE)
         {
-			File path = new File(TestBase.path + "//Screenshots//");
+			File path = new File(TestBase.targetReportPath + "//Screenshots//");
 			if (!path.exists()) {
 				try {
 					path.mkdir();
@@ -70,7 +94,7 @@ public class ChatbotInitiator extends TestBase {
 			File screenshotFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 			String screenShotFileName = result.getMethod().getMethodName() + "_" + System.currentTimeMillis() + ".jpg";
 			
-			String screenShotPath = TestBase.path + "//Screenshots//"+screenShotFileName;
+			String screenShotPath = TestBase.targetReportPath + "//Screenshots//"+screenShotFileName;
 			LOGGER.info("Screenshot path " + screenShotPath);
 			try {
 				FileUtils.copyFile(screenshotFile, new File(screenShotPath));

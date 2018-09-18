@@ -96,7 +96,7 @@ public class ChatbotVerificationDataProvider extends ChatbotInitiator{
 		 }
 			
 		
-			 
+			Assert.assertTrue(true);
 		}
 	
 		

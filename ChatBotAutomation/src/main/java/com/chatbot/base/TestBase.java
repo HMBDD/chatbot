@@ -71,6 +71,7 @@ public class TestBase {
 	 static Date date = new Date();
 	 public static String sReportFolderpath="Execution_"+dateFormat.format(date);
 	 public static String path=System.getProperty("user.dir")+"//Reports//"+TestBase.sReportFolderpath;
+	 public static String targetReportPath=System.getProperty("user.dir")+"//target//Reports//";
 	public static WebDriver getDriver()  {
 		 
 		 
@@ -79,9 +80,9 @@ public class TestBase {
 
 	@BeforeSuite
 	public   void setUpDriver() throws Exception  {
-		File file= new File(path);
+		File file= new File(targetReportPath);
 		file.mkdir();
-		 String filepath=System.getProperty("user.dir")+"//Reports//"+TestBase.sReportFolderpath+"//ExecutionReport.html";
+		 String filepath=targetReportPath+"//ExecutionReport.html";
 			File file1= new File(filepath);
 			file1.createNewFile();
 		htmlReporter = new ExtentHtmlReporter(filepath);
@@ -92,7 +93,25 @@ public class TestBase {
 		 extent.setSystemInfo("os", "Windows 10");
 		 extent.setSystemInfo("browser", System.getProperty("browser"));
 		
-	       
+			File path = new File(TestBase.targetReportPath + "//Screenshots//");
+			if (path.exists()) {
+				File[] files = path.listFiles();
+				 
+				 for (File filedelete : files) {
+					 filedelete.delete();
+				    }
+				if (path.exists()) {
+					try {
+						path.delete();
+					 
+					} catch (Exception e) {
+						e.printStackTrace();
+					}
+
+					
+				}
+			}
+			
 	 
 	 
 			executionType=System.getProperty("executeOn");
